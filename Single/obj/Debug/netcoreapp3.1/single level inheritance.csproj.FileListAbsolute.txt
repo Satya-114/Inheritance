@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\single level inheritance\obj\Debug\netcoreapp3.1\single level inheritance.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\single level inheritance\obj\Debug\netcoreapp3.1\single level inheritance.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\single level inheritance\obj\Debug\netcoreapp3.1\single level inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\single level inheritance\bin\Debug\netcoreapp3.1\single level inheritance.exe
+C:\Users\Satya Maddila\source\repos\single level inheritance\bin\Debug\netcoreapp3.1\single level inheritance.deps.json
+C:\Users\Satya Maddila\source\repos\single level inheritance\bin\Debug\netcoreapp3.1\single level inheritance.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\single level inheritance\bin\Debug\netcoreapp3.1\single level inheritance.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\single level inheritance\bin\Debug\netcoreapp3.1\single level inheritance.dll
+C:\Users\Satya Maddila\source\repos\single level inheritance\bin\Debug\netcoreapp3.1\single level inheritance.pdb
+C:\Users\Satya Maddila\source\repos\single level inheritance\obj\Debug\netcoreapp3.1\single level inheritance.dll
+C:\Users\Satya Maddila\source\repos\single level inheritance\obj\Debug\netcoreapp3.1\single level inheritance.pdb
+C:\Users\Satya Maddila\source\repos\single level inheritance\obj\Debug\netcoreapp3.1\single level inheritance.genruntimeconfig.cache
